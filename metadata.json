@@ -1,0 +1,5 @@
+{
+  "name": "AI WhatsApp Chat",
+  "description": "A web application that simulates a WhatsApp chat interface, allowing users to interact with a powerful AI assistant powered by the Gemini API.",
+  "requestFramePermissions": []
+}
